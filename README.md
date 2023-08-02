@@ -1,4 +1,4 @@
-# Urdu-Text-to-Spech-System
+# Urdu-Text-to-Speech-System
 
 1- Urdu TTS system trained using tactoron-2 on Ghulam Mohyiuddin speech and synthetic data
 
